@@ -5,6 +5,8 @@ public class GitCommands {
 		System.out.println("anything");
 		
 		System.out.println("number two commit");
+		
+		System.out.println("the commit of number 3?");
 
 	}
 
